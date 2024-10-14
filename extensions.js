@@ -318,4 +318,4 @@ export const DoneAnimationExtension = {
       type: 'continue',
     })
   },
-}   .
+}   
