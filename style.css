@@ -32,3 +32,9 @@
   padding-top: 5px; /* Optional: Fügt zusätzlichen Platz oben hinzu */
   padding-bottom: 5px; /* Optional: Fügt zusätzlichen Platz unten hinzu */
 }
+
+.vfrc-header {
+  background-color: #66b2ff;
+  padding: 8px;
+  text-align: center;
+}
